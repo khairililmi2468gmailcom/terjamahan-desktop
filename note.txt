@@ -1,0 +1,20 @@
+Langkah 4: Bangun Proyek
+Setelah mengedit kode, bangun proyek dengan perintah berikut:
+
+dotnet build
+
+Langkah 5: Buat .exe untuk Windows
+Untuk mengeluarkan file .exe yang dapat dijalankan di Windows, kamu perlu melakukan publikasi proyek. Gunakan perintah ini:
+
+dotnet publish -c Release -r win-x64 --self-contained
+
+-c Release mengindikasikan bahwa kamu ingin membangun versi rilis.
+-r win-x64 menunjukkan bahwa target runtime adalah Windows 64-bit.
+--self-contained membuat aplikasi bersifat mandiri, sehingga tidak memerlukan .NET Runtime terinstal di mesin target.
+
+
+Langkah 6: Temukan Output
+Setelah proses publikasi selesai, file .exe akan berada di dalam folder bin/Release/net8.0/win-x64/publish/. Kamu bisa menemukan file bernama MyConsoleApp.exe di dalam folder tersebut.
+
+Langkah 7: Pindahkan ke Windows
+Kamu sekarang dapat memindahkan file MyConsoleApp.exe ke mesin Windows dan menjalankannya di sana.

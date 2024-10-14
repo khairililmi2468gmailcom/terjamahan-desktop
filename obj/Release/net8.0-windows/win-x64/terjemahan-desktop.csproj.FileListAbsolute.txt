@@ -1,0 +1,6 @@
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/terjemahan-desktop.csproj.AssemblyReference.cache
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/Avalonia/Resources.Inputs.cache
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/Avalonia/resources
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/terjemahan-desktop.GeneratedMSBuildEditorConfig.editorconfig
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/terjemahan-desktop.csproj.CoreCompileInputs.cache
+/home/kita/Documents/API Model NMT/hasil0.9248/terjemahan-desktop/obj/Release/net8.0-windows/win-x64/terjemahan-desktop.sourcelink.json
