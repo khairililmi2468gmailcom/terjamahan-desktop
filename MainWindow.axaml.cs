@@ -43,7 +43,7 @@ namespace terjemahan_desktop
 
         private async Task<string> TranslateTextAsync(string text)
         {
-            string url = isBahasaIndonesiaActive ? "http://localhost:5001/translate-indo-gayo" : "http://localhost:5001/translate-gayo-indo";
+            string url = isBahasaIndonesiaActive ? "http://localhost:5001" : "http://localhost:5001";
 
             var requestData = new { text = text }; // Membuat objek permintaan
             var json = JsonConvert.SerializeObject(requestData);
